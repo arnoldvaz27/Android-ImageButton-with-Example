@@ -1,14 +1,11 @@
-package com.example.differentandroidcodes;
+package com.arnoldvaz27.imagebutton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.CheckBox;
 import android.widget.ImageButton;
-import android.widget.RadioButton;
 import android.widget.Toast;
+
 
 public class MainActivity extends AppCompatActivity {
 
